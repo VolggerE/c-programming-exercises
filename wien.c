@@ -49,7 +49,7 @@ unsigned digit_sum(int n) {
 int main (void) {
 
     // test calls
-    printf("sum:%u\n", sum(3));
+    printf("sum: %u\n", sum(3));
     printf("fac: %llu\n", fac(3));
     printf("seq: %u\n", number_sequence(3));
     printf("dig: %u\n", digit_sum(843));
